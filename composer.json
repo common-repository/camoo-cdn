@@ -1,0 +1,12 @@
+{
+	"name": "camoo/wp-camoo-cdn",
+	"description": "Camoo.Hosting CDN Integration for WordPress",
+	"homepage": "https://camoo.Hosting",
+	"type": "project",
+	"license": "MIT",
+	"autoload": {
+		"psr-4": {
+			"WP_CAMOO\\CDN\\": "src"
+		}
+	}
+}
